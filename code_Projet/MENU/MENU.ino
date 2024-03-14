@@ -1,5 +1,5 @@
 #include <M5EPD.h>
-//thomas
+//tho
 M5EPD_Canvas canvas(&M5.EPD);
 
 const int NUM_OPTIONS = 3;
